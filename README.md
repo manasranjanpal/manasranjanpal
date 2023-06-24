@@ -2,5 +2,5 @@
 
 #### Projects Description:
 
-##### BankMarketing_Classification project has been done on the UCI dataset.
-##### UberFaresPrediction_Regression Model is done on Kaggle dataset.
+##### BankMarketing_Classification ML project has been done on the UCI dataset.
+##### UberFaresPrediction_Regression ML project is done on Kaggle dataset.
