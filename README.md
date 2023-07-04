@@ -6,3 +6,4 @@
 ##### UberFaresPrediction_Regression ML project is done on Kaggle dataset.
 ##### Concrete Compressive Strength UCI : confluence of civil engineering with statistics.
 ##### A look at historic data of few cryptocurrencies using powerBI
+##### Tribute to my love of sports, EPL table using PowerBI
